@@ -43,10 +43,10 @@ The Music Track Application is a React-based frontend that allows users to searc
 
 2. Install dependencies:
    ```bash
-   npm install
+  yarn
 
 3. Start the development server:
    ```bash
-   npm run dev
+  yarn dev
 
 4. Open your browser and navigate to http://localhost:3000 to access the application.
