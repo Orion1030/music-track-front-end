@@ -1,0 +1,1 @@
+export { CoverImageContent } from './CoverImageContent';
